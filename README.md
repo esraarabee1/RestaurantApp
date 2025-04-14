@@ -1,9 +1,3 @@
-Sure! Here's a clean and professional **English version** of the `README.md` for your restaurant web app:
-
----
-
-## 🧾 README.md
-
 ````markdown
 # 🍽️ Ala Nar Hadiya - Restaurant Web App
 
