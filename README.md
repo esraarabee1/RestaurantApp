@@ -1,4 +1,3 @@
-````markdown
 # 🍽️ Ala Nar Hadiya - Restaurant Web App
 
 A simple and elegant restaurant web application built with React and React-Bootstrap. Users can browse menu items, filter by category, or search by name.
@@ -8,6 +7,8 @@ A simple and elegant restaurant web application built with React and React-Boots
 ## 📸 Preview
 
 ![MENU](./public/menu.png)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +26,6 @@ A simple and elegant restaurant web application built with React and React-Boots
 ```bash
 git clone https://github.com/your-username/restaurant-app.git
 ```
-````
 
 2. **Navigate to the project folder:**
 
